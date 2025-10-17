@@ -5,7 +5,38 @@ font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 margin: 10px;
 
 
-
-
-
+h3{
+    coloṛ: rgb(2, 213, 189);
+    font-size: :25px;
 }
+p{
+    border-bottom: solid(red);
+    margin:2px;
+    padding: 10px;
+    color: aqua;
+}
+
+.chamada{
+background: rgb(255, 0, 0);
+padding-bottom: 80px;
+padding-top: 80px;
+display: flex;
+justify-content: center;
+}
+
+
+.chamada-texto{
+    margin-right: 8%;
+}
+img{
+height: 200px;
+}
+categoria-video{
+    
+}
+
+
+
+
+
+
