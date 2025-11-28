@@ -1,42 +1,42 @@
-body{
-background-color: rgb(red, green, blue);
-color: rgb(rgb(255, 0, 221), rgb(255, 0, 0), rgb(4, 255, 242));
-font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-margin: 10px;
+body {
+    background-color: blueviolet;
+    color: azure;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin: 10px;
 
-
-h3{
-    coloṛ: rgb(2, 213, 189);
-    font-size: :25px;
+}
+h1{
+    color: beige;
+    font-size: 25px;
 }
 p{
-    border-bottom: solid(red);
-    margin:2px;
-    padding: 10px;
-    color: aqua;
+    font-size: 25px;
 }
-
+header{
+    border-bottom: solid red;
+    margin: 2px;
+    padding: 10px;
+    color: aquamarine;
+}
 .chamada{
-background: rgb(255, 0, 0);
+background: rgb(255, 0, 204);
 padding-bottom: 80px;
 padding-top: 80px;
 display: flex;
 justify-content: center;
 }
-
-
 .chamada-texto{
     margin-right: 8%;
-}
+    }
 img{
-height: 200px;
+    height: 200px;
 }
-categoria-video{
-    
+.categoria-video{
+    display: flex;
+    overflow-x: auto;
+    gap: 15px;
 }
-
-
-
-
-
-
+.categoria{
+    padding-left: 20px;
+    padding-right: 20px;
+}
